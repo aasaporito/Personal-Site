@@ -37,6 +37,10 @@ align-content: center;
 div.layer-1{
                 z-index: 0;
             }
+div{
+    color:whitesmoke;
+    text-align: center;
+}
 /**body {
     
     background: -webkit-gradient(linear, center top, center bottom, from(#0099FF), to(#6666FF));
