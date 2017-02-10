@@ -1,0 +1,68 @@
+   #list li {
+display: inline;
+margin: 150px;
+text-align: center;
+
+   }
+
+#list a {
+text-decoration: none;
+color: #0099FF;
+font-family: 'Alfa Slab One', cursive;
+font-size: 30px;
+
+}
+
+#list {
+background-image:url("img/bar.jpg");
+width:  97%;
+height: 75px;
+align-content: center;
+}
+
+#body1 {
+    width=90%;
+    font-family: 'Bangers';
+}
+
+
+ div.logo{
+                position:absolute;
+                top:0;
+                left:0;
+                z-index: 1;
+            
+            }
+
+div.layer-1{
+                z-index: 0;
+            }
+/**body {
+    
+    background: -webkit-gradient(linear, center top, center bottom, from(#0099FF), to(#6666FF));
+    background: -webkit-linear-gradient(#0099FF, #6666FF);
+    background: -moz-linear-gradient(#0099FF, #6666FF);
+    background: -o-linear-gradient(#0099FF, #6666FF);  
+    background: -ms-linear-gradient(#0099FF, #6666FF);
+    background: linear-gradient(#0099FF, #6666FF);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+
+
+}
+**/
+html { 
+  background: url("img/bg1.jpg") no-repeat center center scroll; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:100%;
+  width:100%;
+}
+
+
+
