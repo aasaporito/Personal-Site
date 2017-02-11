@@ -51,6 +51,25 @@ div.landing{
     
 }
 
+#button {
+    background-color:cornflowerblue;
+    border:none;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    display:inline-block;
+    font-size:16px;
+    z-index: auto;
+    border-radius: 4px;
+     -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#button:hover {
+    background-color: cornflowerblue; /* Green */
+    color: white;
+}
+
 div {
     position:absolute;
     z-index: auto;
