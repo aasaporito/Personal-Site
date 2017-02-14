@@ -1,0 +1,26 @@
+#list li {
+display: inline;
+margin: 100px;
+text-align: center;
+
+}
+
+#list a {
+text-decoration: none;
+color: #0099FF;
+font-family: 'Alfa Slab One', cursive;
+font-size: 30px;
+
+}
+
+#list {
+background-image:url("img/bar.jpg");
+width:  98.5%;
+height: 75px;
+align-content: center;
+z-index: 10;
+}
+
+footer{
+  background-color: GREY
+}
